@@ -1,0 +1,4 @@
+Overview
+The Assembly-Like C Compiler is a C project that aims to provide a basic assembler-like functionality 
+for compiling an Assembly-like code into machine code. This project is designed to demonstrate how 
+low-level operations in a typical assembler can be implemented using C.
